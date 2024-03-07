@@ -18,7 +18,6 @@
 
 Check out the live demo [here](https://nikhil1sai.github.io/Expensestracker/).
 
-![Expense Tracker Demo](demo_image_url)
 
 ---
 
