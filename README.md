@@ -16,26 +16,27 @@
 
 ## Demo
 
-[Live Demo](https://nikhil1sai.github.io/Expensestracker/)
+Check out the live demo [here](https://nikhil1sai.github.io/Expensestracker/).
+
+![Expense Tracker Demo](demo_image_url)
 
 ---
 
 ## Features
 
-- Add new expenses with a description and amount
-- View a list of all expenses
-- See the total amount of expenses
-- Remove individual expenses
-- View expenses in a bar chart with monthly-wise and yearly filters
+- **Add New Expenses:** Enter a description and amount to add a new expense to the list.
+- **View Expense List:** See a list of all expenses with their descriptions and amounts.
+- **Total Expenses:** View the total amount of all expenses.
+- **Expense Visualization:** View expenses in a bar chart, filtered by month and year.
 
 ---
 
 ## Technologies
 
-- React: A JavaScript library for building user interfaces, used to create dynamic components and manage state in the application.
-- JavaScript: The programming language used to implement the application's logic and functionality.
-- HTML5: The markup language used for structuring the web pages.
-- CSS3: The style sheet language used for styling the web pages and enhancing their visual appearance.
+- **React:** A JavaScript library for building user interfaces, used to create dynamic components and manage state in the application.
+- **JavaScript:** The programming language used to implement the application's logic and functionality.
+- **HTML5:** The markup language used for structuring the web pages.
+- **CSS3:** The style sheet language used for styling the web pages and enhancing their visual appearance.
 
 ---
 
@@ -47,7 +48,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory: `cd Expensestracker`
 3. Install dependencies: `npm install`
 4. Run the application: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
+5. Open your browser and visit: [http://localhost:3000](http://localhost:3000)
 
 ---
 
@@ -56,5 +57,4 @@ To run this project locally, follow these steps:
 1. Enter a description and amount for your expense.
 2. Click the "Add Expense" button to add the expense to the list.
 3. View the list of expenses and the total amount.
-4. To remove an expense, click the delete icon next to it.
-5. Use the bar chart to visualize expenses by month and filter by year.
+4. Use the bar chart to visualize expenses by month and filter by year.
